@@ -1,5 +1,5 @@
 # Stacja-pogodowa-do-auta
-Projekt stacji pogodowej na bazie Arduino UNO do samochodu.
+Stary projekt (z 2021 r.) prostej stacji pogodowej na bazie Arduino UNO do samochodu.
 
 Wyświetlacz znajduje się nad deską rodzielczą i połączony jest kablem z bazą, która znajduje się pod siedzeniem kierowcy. W bazie znajdują się czujniki:
 - temperatury DHT22 oraz zapasowy
